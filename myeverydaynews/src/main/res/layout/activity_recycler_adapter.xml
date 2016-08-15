@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:id="@+id/tou_tiao_linear_layout"
+              android:layout_width="match_parent"
+              android:layout_height="wrap_content"
+              android:orientation="horizontal">
+
+    <ImageView
+        android:id="@+id/recycler_adapter_image"
+        android:layout_width="64dp"
+        android:layout_height="64dp"
+        android:background="#486"/>
+
+    <TextView
+        android:id="@+id/recycler_adapter_tv_title"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="center"
+        android:textColor="#000"
+        android:textSize="20sp"/>
+
+</LinearLayout>

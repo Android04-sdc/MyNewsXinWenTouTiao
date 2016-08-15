@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="今日热点"
+        android:icon="@mipmap/ic_launcher"
+        android:id="@+id/redian"/>
+    <item android:title="喜爱收藏"
+        android:icon="@mipmap/ic_launcher"
+        android:id="@+id/shoucang"/>
+    <item android:title="每日关注"
+        android:icon="@mipmap/ic_launcher"
+        android:id="@+id/rediguanzhu"/>
+</menu>
